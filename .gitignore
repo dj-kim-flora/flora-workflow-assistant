@@ -1,0 +1,9 @@
+node_modules
+.venv
+.next
+_work
+*.blend1
+.DS_Store
+PROFILE.md
+lessons.md
+*.zip
